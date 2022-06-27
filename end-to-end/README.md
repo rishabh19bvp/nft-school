@@ -1,4 +1,4 @@
-# 🎟 nft-e2e-example
+# 🎟 Lazy Minting Contract
 
 > An end-to-end example of minting NFTs on Ethereum from your browser. Powered by nft.storage and scaffold-eth!
 
